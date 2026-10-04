@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✮˙๋࣭⭑ META APOLLO // KUDO
+# ✮˙๋࣭⭑ META APOLLO // KUDOKUDO
 
 **ARTIST // SYSTEM DESIGNER // OPERATOR**
 
