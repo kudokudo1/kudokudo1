@@ -60,8 +60,8 @@ OPERATOR  →  ENVIRONMENT  →  TOOLS  →  CONTEXT  →  ACTION
   <tr>
     <td valign="top" width="50%">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=kudokudo1&show_icons=true&hide_border=true&card_width=560&bg_color=1B0623&title_color=55CFCA&text_color=DCF3FA&icon_color=F2BE4E&ring_color=C74EC7"
-        alt="Kudo GitHub stats"
+        src="./assets/public-github-stats.svg"
+        alt="Kudo public GitHub stats"
         width="100%"
       />
     </td>
