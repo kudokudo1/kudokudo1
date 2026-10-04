@@ -67,10 +67,9 @@ OPERATOR  →  ENVIRONMENT  →  TOOLS  →  CONTEXT  →  ACTION
     </td>
     <td valign="top" width="46%">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kudokudo1&layout=compact&langs_count=8&hide_border=true&card_width=420&bg_color=1B0623&title_color=55CFCA&text_color=DCF3FA&custom_title=Public%20Repo%20Languages"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kudokudo1&langs_count=8&hide_border=true&card_width=420&bg_color=1B0623&title_color=55CFCA&text_color=DCF3FA&custom_title=Public%20Repo%20Languages"
         alt="Public repo languages"
         width="100%"
-        height="235"
       />
     </td>
   </tr>
