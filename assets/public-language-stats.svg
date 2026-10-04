@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="235" viewBox="0 0 520 235">
+  <rect width="520" height="235" rx="8" fill="#1B0623"/>
+  <rect x="0.5" y="0.5" width="519" height="234" rx="8" fill="none" stroke="#55CFCA" stroke-opacity="0.85"/>
+
+  <style>
+    .title { font: 600 18px ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; fill: #55CFCA; }
+    .label { font: 600 13px ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; fill: #DCF3FA; }
+    .value { font: 700 13px ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; fill: #DCF3FA; }
+    .small { font: 600 9px ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; fill: #C74EC7; letter-spacing: 1px; }
+  </style>
+
+  <text x="22" y="31" class="title">PUBLIC REPO LANGUAGES</text>
+  <text x="22" y="50" class="small">CURRENT PUBLIC NON-FORKED SNAPSHOT</text>
+
+  <text x="22" y="84" class="label">Python</text>
+  <text x="498" y="84" text-anchor="end" class="value">99.76%</text>
+  <rect x="22" y="94" width="476" height="9" rx="4.5" fill="#3E174A"/>
+  <rect x="22" y="94" width="474.9" height="9" rx="4.5" fill="#55CFCA"/>
+
+  <text x="22" y="132" class="label">Shell</text>
+  <text x="498" y="132" text-anchor="end" class="value">0.24%</text>
+  <rect x="22" y="142" width="476" height="9" rx="4.5" fill="#3E174A"/>
+  <rect x="22" y="142" width="1.15" height="9" rx="4.5" fill="#F2BE4E"/>
+
+  <text x="22" y="180" class="label">Modula-3</text>
+  <text x="498" y="180" text-anchor="end" class="value">0.00%</text>
+  <rect x="22" y="190" width="476" height="9" rx="4.5" fill="#3E174A"/>
+
+  <text x="498" y="218" text-anchor="end" class="small">PUBLIC COMPOSITION</text>
+</svg>
