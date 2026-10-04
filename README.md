@@ -76,10 +76,6 @@ That is the thread connecting the projects here.
   <img src="https://img.shields.io/badge/PRIMARY_AUTHORED_LANGUAGE-QML-1B0623?style=for-the-badge&logo=qt&logoColor=55CFCA&labelColor=1B0623&color=C74EC7" alt="Primary authored language: QML">
 </p>
 
-**QML is the language I actually write.**
-
-The live language card above shows the composition of public, non-forked repositories GitHub can currently expose to the stats service. As more Post-Apollo repositories become public, that chart should shift toward the languages actually present in those repositories.
-
 <sub>Repository composition is not the same thing as personal language fluency or authorship.</sub>
 
 ---
