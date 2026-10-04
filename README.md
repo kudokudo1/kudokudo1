@@ -45,9 +45,9 @@ That is the thread connecting the projects here.
 </p>
 
   ```text
-                                             OPERATOR  →  ENVIRONMENT  →  TOOLS  →  CONTEXT  →  ACTION                                                            |
-                                              ↑                                                       ↓                                                             |
-                                              └────────────────── CONTINUITY ──────────────────────────┘                                                             | 
+                                                   OPERATOR  →  ENVIRONMENT  →  TOOLS  →  CONTEXT  →  ACTION                                                            |
+                                                    ↑                                                       ↓                                                             |
+                                                    └────────────────── CONTINUITY ──────────────────────────┘                                                             | 
 ```
 
 ---
