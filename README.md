@@ -56,24 +56,10 @@ OPERATOR  →  ENVIRONMENT  →  TOOLS  →  CONTEXT  →  ACTION
 
 ## ⊹⚙ TELEMETRY // PUBLIC GITHUB
 
-<table width="100%" cellspacing="0" cellpadding="0">
-  <tr>
-    <td valign="top" width="50%">
-      <img
-        src="./assets/public-github-stats.svg"
-        alt="Kudo public GitHub stats"
-        width="100%"
-      />
-    </td>
-    <td valign="top" width="50%">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kudokudo1&langs_count=8&hide_border=false&border_color=55CFCA&border_radius=8&card_width=420&bg_color=1B0623&title_color=55CFCA&text_color=DCF3FA&custom_title=Public%20Repo%20Languages"
-        alt="Public repo languages"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/public-github-stats.svg" alt="Kudo public GitHub stats" width="49%">
+  <img src="./assets/public-language-stats.svg" alt="Public repo languages" width="49%">
+</p>
 ### ◈ AUTHORED LANGUAGE // QML
 
 <p align="center">
