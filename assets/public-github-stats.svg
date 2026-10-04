@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195">
-  <rect width="495" height="195" rx="8" fill="#1B0623"/>
-  <rect x="0.5" y="0.5" width="494" height="194" rx="8" fill="none" stroke="#55CFCA" stroke-opacity="0.85"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="219" viewBox="0 0 495 219">
+  <rect width="495" height="219" rx="8" fill="#1B0623"/>
+  <rect x="0.5" y="0.5" width="494" height="218" rx="8" fill="none" stroke="#55CFCA" stroke-opacity="0.85"/>
 
   <style>
     .title { font: 600 18px ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; fill: #55CFCA; }
@@ -25,11 +25,14 @@
 
     <text x="0" y="151" class="label">!  ISSUES</text>
     <text x="265" y="151" text-anchor="end" class="value">0</text>
+
+    <text x="0" y="175" class="label">◈  PROJECTS // PUBLIC · PRIVATE</text>
+    <text x="265" y="175" text-anchor="end" class="value">5 · 12</text>
   </g>
 
   <circle cx="407" cy="108" r="45" fill="none" stroke="#3E174A" stroke-width="8"/>
   <circle cx="407" cy="108" r="45" fill="none" stroke="#C74EC7" stroke-width="8"
           stroke-linecap="round" stroke-dasharray="155 128" transform="rotate(-90 407 108)"/>
   <text x="407" y="116" text-anchor="middle" class="grade">C+</text>
-  <text x="407" y="171" text-anchor="middle" class="small">PUBLIC RANK</text>
+  <text x="407" y="195" text-anchor="middle" class="small">PUBLIC RANK</text>
 </svg>
