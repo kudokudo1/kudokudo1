@@ -83,5 +83,4 @@ That is the thread connecting the projects here.
 <div align="center">
 
 **KOINŌ NŌ POIOUMENON // BEING MADE WITH COMMON SENSE**
-
 </div>
