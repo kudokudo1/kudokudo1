@@ -57,7 +57,8 @@ OPERATOR  →  ENVIRONMENT  →  TOOLS  →  CONTEXT  →  ACTION
 ## ⊹⚙ TELEMETRY // PUBLIC GITHUB
 
 <p align="center">
-  <img width="58%" src="https://github-readme-stats.vercel.app/api?username=kudokudo1&show_icons=true&hide_border=true&bg_color=1B0623&title_color=55CFCA&text_color=DCF3FA&icon_color=F2BE4E&ring_color=C74EC7" alt="Kudo GitHub stats">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kudokudo1&show_icons=true&hide_border=true&bg_color=1B0623&title_color=55CFCA&text_color=DCF3FA&icon_color=F2BE4E&ring_color=C74EC7" alt="Kudo GitHub stats">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kudokudo1&layout=compact&langs_count=8&hide_border=true&bg_color=1B0623&title_color=55CFCA&text_color=DCF3FA&custom_title=Public%20Repository%20Composition" alt="Public repository language composition">
 </p>
 
 ### ◈ AUTHORED LANGUAGE // QML
@@ -68,9 +69,9 @@ OPERATOR  →  ENVIRONMENT  →  TOOLS  →  CONTEXT  →  ACTION
 
 **QML is the language I actually write.**
 
-GitHub repository language percentages measure the contents of repositories. They can include forks, inherited upstream code, imported material, generated files, archives, and other code that I did not author. For this profile, repository composition is not presented as personal language fluency.
+The live language card above shows the composition of public, non-forked repositories GitHub can currently expose to the stats service. As more Post-Apollo repositories become public, that chart should shift toward the languages actually present in those repositories.
 
-<sub>The GitHub activity card above reflects public account activity. Private Post-Apollo work is intentionally not represented as if it were public.</sub>
+<sub>Repository composition is not the same thing as personal language fluency or authorship.</sub>
 
 ---
 
