@@ -58,7 +58,7 @@ OPERATOR  →  ENVIRONMENT  →  TOOLS  →  CONTEXT  →  ACTION
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kudokudo1&show_icons=true&hide_border=true&bg_color=1B0623&title_color=55CFCA&text_color=DCF3FA&icon_color=F2BE4E&ring_color=C74EC7" alt="Kudo GitHub stats">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kudokudo1&layout=compact&langs_count=8&hide_border=true&bg_color=1B0623&title_color=55CFCA&text_color=DCF3FA&custom_title=Public%20Repository%20Composition" alt="Public repository language composition">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kudokudo1&layout=compact&langs_count=8&hide_border=true&bg_color=1B0623&title_color=55CFCA&text_color=DCF3FA&custom_title=Public%20Repo%20Languages" alt="Public repository language composition">
 </p>
 
 ### ◈ AUTHORED LANGUAGE // QML
