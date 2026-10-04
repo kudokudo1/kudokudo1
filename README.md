@@ -13,17 +13,6 @@
 
 ---
 
-## ⊹ ࣪ ABOUT // OPERATOR
-
-Hey, I'm Kudo — an artist and designer building software, interfaces, and systems around the relationships between **people, tools, environments, continuity, and agency**.
-
-**Meta Apollo Logos** is the philosophy and living record.  
-**Post-Apollo** is where that philosophy gets built, tested, and expressed through working systems.
-
-The projects are not meant to be isolated tools. They are different parts of an environment: desktop, terminal, development, continuity, preservation, experimentation, and shared control.
-
----
-
 ## ✮˙๋࣭⭑ META APOLLO // DESIGN DIRECTION
 
 **Power. Human. Tactile. Nostalgic. Modular. Serious.**
