@@ -26,8 +26,8 @@
     <text x="0" y="151" class="label">!  ISSUES</text>
     <text x="265" y="151" text-anchor="end" class="value">0</text>
 
-    <text x="0" y="175" class="label">◈  PROJECTS // PUBLIC · PRIVATE</text>
-    <text x="265" y="175" text-anchor="end" class="value">5 · 12</text>
+    <text x="0" y="175" class="label">◈  PUBLIC // PRIVATE</text>
+    <text x="265" y="175" text-anchor="end" class="value">5 // 12</text>
   </g>
 
   <circle cx="407" cy="108" r="45" fill="none" stroke="#3E174A" stroke-width="8"/>
