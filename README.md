@@ -24,7 +24,17 @@ The projects are not meant to be isolated tools. They are different parts of an 
 
 ---
 
+## ✮˙๋࣭⭑ META APOLLO // DESIGN DIRECTION
+
+**Power. Human. Tactile. Nostalgic. Modular. Serious.**
+
+The recurring question is not only *what can this tool do?*  
+It is also *what relationship does this tool create between the person using it and the system around them?*
+
+That is the thread connecting the projects here.
 ## 🖳 SYSTEM // CURRENT SIGNAL
+
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/FEDORA-1B0623?style=for-the-badge&logo=fedora&logoColor=55CFCA&labelColor=1B0623" alt="Fedora">
@@ -71,17 +81,6 @@ OPERATOR  →  ENVIRONMENT  →  TOOLS  →  CONTEXT  →  ACTION
 The live language card above shows the composition of public, non-forked repositories GitHub can currently expose to the stats service. As more Post-Apollo repositories become public, that chart should shift toward the languages actually present in those repositories.
 
 <sub>Repository composition is not the same thing as personal language fluency or authorship.</sub>
-
----
-
-## ✮˙๋࣭⭑ META APOLLO // DESIGN DIRECTION
-
-**Power. Human. Tactile. Nostalgic. Modular. Serious.**
-
-The recurring question is not only *what can this tool do?*  
-It is also *what relationship does this tool create between the person using it and the system around them?*
-
-That is the thread connecting the projects here.
 
 ---
 
