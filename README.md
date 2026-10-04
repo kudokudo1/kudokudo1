@@ -56,7 +56,7 @@ OPERATOR  →  ENVIRONMENT  →  TOOLS  →  CONTEXT  →  ACTION
 
 ## ⊹⚙ TELEMETRY // PUBLIC GITHUB
 
-<table>
+<table width="100%">
   <tr>
     <td valign="top" width="50%">
       <img
