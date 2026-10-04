@@ -60,7 +60,7 @@ OPERATOR  →  ENVIRONMENT  →  TOOLS  →  CONTEXT  →  ACTION
   <img src="./assets/public-github-stats.svg" alt="Kudo public GitHub stats" width="49%">
   <img src="./assets/public-language-stats.svg" alt="Public repo languages" width="49%">
 </p>
-### ◈ AUTHORED LANGUAGE // QML
+ ◈ AUTHORED LANGUAGE // QML
 
 <p align="center">
   <img src="https://img.shields.io/badge/PRIMARY_AUTHORED_LANGUAGE-QML-1B0623?style=for-the-badge&logo=qt&logoColor=55CFCA&labelColor=1B0623&color=C74EC7" alt="Primary authored language: QML">
