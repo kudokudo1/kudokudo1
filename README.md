@@ -4,7 +4,7 @@
 
 **ARTIST // SYSTEM DESIGNER // OPERATOR**
 
-*Building the space between people, tools, machines, and environments.*
+*Reshaping the space between people, tools, machines, and environments.*
 
 [![Meta Apollo Logos](https://img.shields.io/badge/META_APOLLO-LOGOS-1B0623?style=for-the-badge&labelColor=1B0623&color=55CFCA)](https://github.com/kudokudo1/Meta-Apollo-Logos)
 [![Post Apollo](https://img.shields.io/badge/POST--APOLLO-FAMILY-1B0623?style=for-the-badge&labelColor=1B0623&color=C74EC7)](https://github.com/kudokudo1?tab=repositories)
@@ -36,8 +36,8 @@ The projects are not meant to be isolated tools. They are different parts of an 
 
 ```text
 OPERATOR  →  ENVIRONMENT  →  TOOLS  →  CONTEXT  →  ACTION
-                 ↑                                ↓
-                 └────────── CONTINUITY ──────────┘
+ ↑                                                       ↓
+ └────────────────── CONTINUITY ──────────────────────────┘
 ```
 
 ---
