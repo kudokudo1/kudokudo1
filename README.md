@@ -44,10 +44,10 @@ That is the thread connecting the projects here.
   <img src="https://img.shields.io/badge/GIT-1B0623?style=for-the-badge&logo=git&logoColor=C74EC7&labelColor=1B0623" alt="Git">
 </p>
 
-```text
-OPERATOR  →  ENVIRONMENT  →  TOOLS  →  CONTEXT  →  ACTION
- ↑                                                       ↓
- └────────────────── CONTINUITY ──────────────────────────┘
+  ```text
+         OPERATOR  →  ENVIRONMENT  →  TOOLS  →  CONTEXT  →  ACTION
+          ↑                                                       ↓
+          └────────────────── CONTINUITY ──────────────────────────┘
 ```
 
 ---
