@@ -31,7 +31,6 @@ The projects are not meant to be isolated tools. They are different parts of an 
   <img src="https://img.shields.io/badge/SWAYFX-1B0623?style=for-the-badge&logoColor=DCF3FA&labelColor=1B0623" alt="SwayFX">
   <img src="https://img.shields.io/badge/QUICKSHELL-1B0623?style=for-the-badge&logo=qt&logoColor=55CFCA&labelColor=1B0623" alt="Quickshell">
   <img src="https://img.shields.io/badge/QML-1B0623?style=for-the-badge&logo=qt&logoColor=F2BE4E&labelColor=1B0623" alt="QML">
-  <img src="https://img.shields.io/badge/RUST-1B0623?style=for-the-badge&logo=rust&logoColor=D16041&labelColor=1B0623" alt="Rust">
   <img src="https://img.shields.io/badge/GIT-1B0623?style=for-the-badge&logo=git&logoColor=C74EC7&labelColor=1B0623" alt="Git">
 </p>
 
@@ -58,11 +57,20 @@ OPERATOR  →  ENVIRONMENT  →  TOOLS  →  CONTEXT  →  ACTION
 ## ⊹⚙ TELEMETRY // PUBLIC GITHUB
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kudokudo1&show_icons=true&hide_border=true&bg_color=1B0623&title_color=55CFCA&text_color=DCF3FA&icon_color=F2BE4E&ring_color=C74EC7" alt="Kudo GitHub stats">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kudokudo1&layout=compact&langs_count=8&hide_border=true&bg_color=1B0623&title_color=55CFCA&text_color=DCF3FA" alt="Kudo public repository languages">
+  <img width="58%" src="https://github-readme-stats.vercel.app/api?username=kudokudo1&show_icons=true&hide_border=true&bg_color=1B0623&title_color=55CFCA&text_color=DCF3FA&icon_color=F2BE4E&ring_color=C74EC7" alt="Kudo GitHub stats">
 </p>
 
-<sub>Telemetry above reflects what public GitHub data can expose. Private Post-Apollo work is intentionally not represented as if it were public.</sub>
+### ◈ AUTHORED LANGUAGE // QML
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PRIMARY_AUTHORED_LANGUAGE-QML-1B0623?style=for-the-badge&logo=qt&logoColor=55CFCA&labelColor=1B0623&color=C74EC7" alt="Primary authored language: QML">
+</p>
+
+**QML is the language I actually write.**
+
+GitHub repository language percentages measure the contents of repositories. They can include forks, inherited upstream code, imported material, generated files, archives, and other code that I did not author. For this profile, repository composition is not presented as personal language fluency.
+
+<sub>The GitHub activity card above reflects public account activity. Private Post-Apollo work is intentionally not represented as if it were public.</sub>
 
 ---
 
