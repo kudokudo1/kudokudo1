@@ -11,6 +11,8 @@ TOKEN = os.environ.get("GITHUB_TOKEN", "")
 PROFILE_REPO = f"{OWNER}/{OWNER}"
 OUT = Path("assets/public-github-stats.svg")
 
+# Triggered by manual, daily, or generator changes.
+
 
 def github_json(url):
     headers = {
