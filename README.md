@@ -87,8 +87,7 @@ All current Post-Apollo family projects are public. The doors below are grouped 
 ## ⊹⚙ TELEMETRY // PUBLIC GITHUB
 
 <p align="center">
-  <img src="./assets/public-github-stats.svg" alt="Kudo public GitHub stats" width="49%">
-  <img src="./assets/public-language-stats.svg" alt="Public repo languages" width="49%">
+  <img src="./assets/public-github-stats.svg" alt="Kudo public GitHub stats" width="49%"> <img src="./assets/public-language-stats.svg" alt="Public repo languages" width="49%">
 </p>
  ◈ AUTHORED LANGUAGE // QML
 
