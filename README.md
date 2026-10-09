@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✮˙๋࣭⭑ META APOLLO // KUDOKUDO1
+# ✮˙๋࣭⭑ META APOLLO LOGOS // KUDOKUDO1
 
 **ARTIST // SYSTEM DESIGNER // OPERATOR**
 
@@ -43,12 +43,43 @@ That is the thread connecting the projects here.
 
 ## ⚒ MAP // PUBLIC DOORS INTO POST-APOLLO
 
+All current Post-Apollo family projects are public. The doors below are grouped by the relationship each part of the family is primarily shaping, enhancing, or preserving.
+
+### ★⋆˙ CORE // PHILOSOPHY // CONTINUITY
+
 | System | Relationship |
 | --- | --- |
-| [**Meta Apollo Logos**](https://github.com/kudokudo1/Meta-Apollo-Logos) | people ↔ tools ↔ ideas ↔ environments |
-| [**The Post-Apollo Dev Exp**](https://github.com/kudokudo1/The-Post-Apollo-Dev-Exp) | developer ↔ projects ↔ automation ↔ remote infrastructure |
-| [**The Post-Apollo Forest Project**](https://github.com/kudokudo1/The-Post-Apollo-Forest-Project) | person ↔ agentic tools ↔ context ↔ continuity |
+| [**Meta Apollo Logos // Post-Apollo Project**](https://github.com/kudokudo1/The-Post-Apollo-Project) | operator ↔ desktop ↔ applications ↔ services ↔ tools ↔ system state |
+| [**Meta Apollo Logos // Poioumenon**](https://github.com/kudokudo1/Meta-Apollo-Logos) | people ↔ tools ↔ ideas ↔ environments |
+| [**Post-Apollo // Dev Experience**](https://github.com/kudokudo1/The-Post-Apollo-Dev-Exp) | developer ↔ projects ↔ automation ↔ remote infrastructure |
+| [**Post-Apollo // The Forest**](https://github.com/kudokudo1/The-Post-Apollo-Forest-Project) | person ↔ agentic tools ↔ context ↔ continuity |
+| [**Meta Apollo Logos // How I Think**](https://github.com/kudokudo1/Meta-Apollo-Logos-How-I-Think) | artist ↔ models ↔ evidence ↔ perception ↔ action |
+| [**Post-Apollo // Chronicle Library**](https://github.com/kudokudo1/The-Post-Apollo-Chronicle-Library) | projects ↔ artifacts ↔ evidence ↔ history ↔ provenance |
+
+### 🖳 DESKTOP // SPACE // EXPRESSION
+
+| System | Relationship |
+| --- | --- |
 | [**SwayFX // SwayPX**](https://github.com/kudokudo1/Post-Apollo-SwayPx) | operator ↔ input ↔ windows ↔ motion ↔ screen space |
+| [**SwayFX // Post-Apollo Config**](https://github.com/kudokudo1/Post-Apollo-Sway-Config) | operator ↔ input ↔ applications ↔ workspaces ↔ displays |
+| [**Post-Apollo // Neon Retro**](https://github.com/kudokudo1/Post-Apollo-Neon-Retro) | operator ↔ applications ↔ visual language ↔ expression |
+
+### ⚒ TERMINAL // DEVELOPMENT ENVIRONMENT
+
+| System | Relationship |
+| --- | --- |
+| [**Kitty // Pretty Kitty**](https://github.com/kudokudo1/Post-Apollo-Pretty-Kitty) | operator ↔ terminal ↔ text ↔ signal ↔ machine |
+| [**Post-Apollo + Zellij // CRT-T.V**](https://github.com/kudokudo1/Post-Apollo-CRT-TV) | operator ↔ controls ↔ terminal workspace ↔ screen space |
+| [**Zellij // Post-Apollo**](https://github.com/kudokudo1/Post-Apollo-Zellij) | operator ↔ panes ↔ sessions ↔ projects ↔ continuity |
+| [**Neovim // Astro Snacks**](https://github.com/kudokudo1/Post-Apollo-Astro-Snacks) | operator ↔ editor ↔ code ↔ tools ↔ creation |
+| [**Zsh // Oh My Apollo**](https://github.com/kudokudo1/Post-Apollo-Oh-My-Apollo) | operator ↔ shell ↔ commands ↔ context ↔ history |
+| [**Fastfetch // Post-Apollo**](https://github.com/kudokudo1/Post-Apollo-Fastfetch) | operator ↔ terminal ↔ system ↔ hardware ↔ identity |
+
+### ★⋆˙ PLAY // MULTI-OPERATOR
+
+| System | Relationship |
+| --- | --- |
+| [**Post-Apollo // Toy Box**](https://github.com/kudokudo1/The-Post-Apollo-Toy-Box) | people ↔ machines ↔ curiosity ↔ play |
 | [**Lan Mouse // 2-Player Mode**](https://github.com/kudokudo1/Lan-Mouse-2-Player-Mode) | operators ↔ input ↔ seats ↔ machines ↔ independent agency |
 
 ---
