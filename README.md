@@ -13,7 +13,7 @@
 
 ---
 
-**RULES //** [Syntagma // shared operator and AI working rules](https://github.com/kudokudo1/Meta-Apollo-Logos-How-I-Think/blob/main/AGENTS.md) · [Meta Apollo design grammar](https://github.com/kudokudo1/Meta-Apollo-Logos/blob/main/MODEL/Repo-Design-Language.md)
+**RULES //** [Syntagma // shared operator and AI working rules](https://github.com/kudokudo1/Meta-Apollo-Logos-Syntagma/blob/main/AGENTS.md) · [Meta Apollo design grammar](https://github.com/kudokudo1/Meta-Apollo-Logos/blob/main/MODEL/Repo-Design-Language.md)
 
 ## ✮˙๋࣭⭑ META APOLLO // DESIGN DIRECTION
 
