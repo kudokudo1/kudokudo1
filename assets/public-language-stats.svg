@@ -13,29 +13,29 @@
   <text x="22" y="50" class="small">AUTO // PUBLIC NON-FORKED SNAPSHOT</text>
 
   <text x="22" y="73" class="label">QML</text>
-  <text x="498" y="73" text-anchor="end" class="value">81.16%</text>
+  <text x="498" y="73" text-anchor="end" class="value">81.05%</text>
   <rect x="22" y="81" width="476" height="7" rx="3.5" fill="#3E174A"/>
-  <rect x="22" y="81" width="386.31" height="7" rx="3.5" fill="#55CFCA"/>
+  <rect x="22" y="81" width="385.78" height="7" rx="3.5" fill="#55CFCA"/>
 
   <text x="22" y="104" class="label">Python</text>
-  <text x="498" y="104" text-anchor="end" class="value">17.44%</text>
+  <text x="498" y="104" text-anchor="end" class="value">17.54%</text>
   <rect x="22" y="112" width="476" height="7" rx="3.5" fill="#3E174A"/>
-  <rect x="22" y="112" width="83.02" height="7" rx="3.5" fill="#F2BE4E"/>
+  <rect x="22" y="112" width="83.49" height="7" rx="3.5" fill="#F2BE4E"/>
 
   <text x="22" y="135" class="label">Slang</text>
-  <text x="498" y="135" text-anchor="end" class="value">1.03%</text>
+  <text x="498" y="135" text-anchor="end" class="value">1.02%</text>
   <rect x="22" y="143" width="476" height="7" rx="3.5" fill="#3E174A"/>
-  <rect x="22" y="143" width="4.89" height="7" rx="3.5" fill="#C74EC7"/>
+  <rect x="22" y="143" width="4.88" height="7" rx="3.5" fill="#C74EC7"/>
 
   <text x="22" y="166" class="label">Shell</text>
   <text x="498" y="166" text-anchor="end" class="value">0.21%</text>
   <rect x="22" y="174" width="476" height="7" rx="3.5" fill="#3E174A"/>
-  <rect x="22" y="174" width="1.01" height="7" rx="3.5" fill="#5B5FD4"/>
+  <rect x="22" y="174" width="1.02" height="7" rx="3.5" fill="#5B5FD4"/>
 
   <text x="22" y="197" class="label">Other</text>
-  <text x="498" y="197" text-anchor="end" class="value">0.16%</text>
+  <text x="498" y="197" text-anchor="end" class="value">0.17%</text>
   <rect x="22" y="205" width="476" height="7" rx="3.5" fill="#3E174A"/>
-  <rect x="22" y="205" width="0.77" height="7" rx="3.5" fill="#D16041"/>
+  <rect x="22" y="205" width="0.83" height="7" rx="3.5" fill="#D16041"/>
 
-  <text x="498" y="224" text-anchor="end" class="small">15 REPOS // 10 LANGUAGES</text>
+  <text x="498" y="224" text-anchor="end" class="small">16 REPOS // 10 LANGUAGES</text>
 </svg>
