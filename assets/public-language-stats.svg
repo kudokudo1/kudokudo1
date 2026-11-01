@@ -13,24 +13,24 @@
   <text x="22" y="50" class="small">AUTO // PUBLIC NON-FORKED SNAPSHOT</text>
 
   <text x="22" y="73" class="label">QML</text>
-  <text x="498" y="73" text-anchor="end" class="value">79.34%</text>
+  <text x="498" y="73" text-anchor="end" class="value">79.27%</text>
   <rect x="22" y="81" width="476" height="7" rx="3.5" fill="#3E174A"/>
-  <rect x="22" y="81" width="377.68" height="7" rx="3.5" fill="#55CFCA"/>
+  <rect x="22" y="81" width="377.34" height="7" rx="3.5" fill="#55CFCA"/>
 
   <text x="22" y="104" class="label">Python</text>
-  <text x="498" y="104" text-anchor="end" class="value">18.41%</text>
+  <text x="498" y="104" text-anchor="end" class="value">18.46%</text>
   <rect x="22" y="112" width="476" height="7" rx="3.5" fill="#3E174A"/>
-  <rect x="22" y="112" width="87.62" height="7" rx="3.5" fill="#F2BE4E"/>
+  <rect x="22" y="112" width="87.86" height="7" rx="3.5" fill="#F2BE4E"/>
 
   <text x="22" y="135" class="label">Slang</text>
   <text x="498" y="135" text-anchor="end" class="value">0.99%</text>
   <rect x="22" y="143" width="476" height="7" rx="3.5" fill="#3E174A"/>
-  <rect x="22" y="143" width="4.71" height="7" rx="3.5" fill="#C74EC7"/>
+  <rect x="22" y="143" width="4.70" height="7" rx="3.5" fill="#C74EC7"/>
 
   <text x="22" y="166" class="label">JavaScript</text>
-  <text x="498" y="166" text-anchor="end" class="value">0.90%</text>
+  <text x="498" y="166" text-anchor="end" class="value">0.92%</text>
   <rect x="22" y="174" width="476" height="7" rx="3.5" fill="#3E174A"/>
-  <rect x="22" y="174" width="4.27" height="7" rx="3.5" fill="#5B5FD4"/>
+  <rect x="22" y="174" width="4.39" height="7" rx="3.5" fill="#5B5FD4"/>
 
   <text x="22" y="197" class="label">Other</text>
   <text x="498" y="197" text-anchor="end" class="value">0.36%</text>
